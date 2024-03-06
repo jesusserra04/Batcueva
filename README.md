@@ -1,5 +1,5 @@
 # Batcueva
-# Inquilinos de la batcueva: 
+# Inquilinos de la batcueva: :bat:
 
 |**Nombre** |**Tipo** |**Poder**| 
 |-------------------|-------------------|--------| 
