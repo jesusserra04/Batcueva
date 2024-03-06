@@ -7,7 +7,7 @@
 |Robin |**Dick Grayson** |![RObin](https://mural.uv.es/franpevi/robin.jpg) | 
 |
 ***
-## Tareas a llevar a cabo por Alafred:
+## Tareas a llevar a cabo por Alfred:
 - [x] *Lavar el ~~coche de batman~~*
 
 - [ ] *Cocinar langosta Terminor*
