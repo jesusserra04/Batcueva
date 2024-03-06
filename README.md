@@ -8,9 +8,9 @@
 |
 ***
 ## Tareas a llevar a cabo por Alafred:
-[x] *Lavar el ~~coche de batman~~*
+- [x] *Lavar el ~~coche de batman~~*
 
-[ ] *Cocinar langosta Terminor*
+- [ ] *Cocinar langosta Terminor*
 
-[ ] *Aprender a bailar [el batusi](https://youtu.be/wnoBD1OPUX4)* 
+- [ ] *Aprender a bailar [el batusi](https://youtu.be/wnoBD1OPUX4)* 
 ***
